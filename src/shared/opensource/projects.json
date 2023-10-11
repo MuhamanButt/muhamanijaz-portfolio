@@ -27,6 +27,14 @@
         {
           "name": "ReactJS",
           "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos-redux"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
         }
       ]
     },
@@ -57,6 +65,14 @@
         {
           "name": "ReactJS",
           "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos-redux"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
         }
       ]
     },
@@ -109,6 +125,14 @@
         {
           "name": "ReactJS",
           "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos-redux"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
         }
       ]
     }
