@@ -22,7 +22,7 @@ const greeting = {
   title: "Muhaman Ijaz",
   logo_name: "Muhaman Ijaz",
   nickname: "Muhaymin",
-  subTitle: `Software Engineer who is enthusiastic about writing clean, efficient, and accessible code in a functional framework. Committed to the total development lifecycle, the maintenance of code quality and bug-free applications is of the utmost importance.`,
+  subTitle: `As a front-end developer, I excel at designing visually captivating and user-centric web interfaces, delivering seamless and engaging experiences by harnessing contemporary design principles and the most advanced front-end technologies.`,
   githubProfile: "https://github.com/MuhamanButt",
 };
 
@@ -524,7 +524,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+  "As a front-end developer, I specialize in crafting visually stunning and highly responsive web interfaces, ensuring seamless user experiences through the skillful use of modern design principles and the latest front-end technologies.",
   avatar_image_path: "projects_image.svg",
 };
 
