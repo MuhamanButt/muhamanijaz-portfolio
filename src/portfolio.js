@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Muhaman Ijaz",
-  logo_name: "Muhaman Ijaz",
+  logo_name: "Muhaymin",
   nickname: "Muhaymin",
   subTitle: `As a front-end developer, I excel at designing visually captivating and user-centric web interfaces, delivering seamless and engaging experiences by harnessing contemporary design principles and the most advanced front-end technologies.`,
   githubProfile: "https://github.com/MuhamanButt",
